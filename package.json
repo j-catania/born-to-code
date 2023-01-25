@@ -1,6 +1,6 @@
 {
   "name": "born-to-code",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Just a message for showing that YOU are born to code",
   "main": "src/index.js",
   "bin": {
