@@ -6,6 +6,7 @@
   "bin": {
     "born-to-code": "src/index.js"
   },
+  "files": ["src"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +16,7 @@
     "url": "git+https://github.com/j-catania/born-to-code.git"
   },
   "author": "Julien CATANIA <julien.catania@gmail.com> (https://jcatania.io)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/j-catania/born-to-code/issues"
   },
