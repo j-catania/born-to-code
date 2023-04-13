@@ -7,7 +7,8 @@
     "born-to-code": "src/index.js"
   },
   "files": [
-    "src"
+    "src",
+    "README.md"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
